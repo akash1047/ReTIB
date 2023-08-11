@@ -1,2 +1,2 @@
 # ReTIB
-Recreating and fixing Techno International Batanagar website.
+Rebuilding and fixing Techno International Batanagar website.
